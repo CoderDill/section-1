@@ -1,0 +1,27 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+html {
+  background-color: #115ff4;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+button {
+  background-color:   #8d2ab5;
+  color: white;
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  border: none;
+}
+
